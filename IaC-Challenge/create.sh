@@ -1,0 +1,1 @@
+aws cloudformation create-stack  --stack-name challenge2 --region us-east-1 --template-body file://infra.yml --parameters file://infra-parameters.json
