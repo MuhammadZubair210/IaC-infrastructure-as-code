@@ -12,7 +12,6 @@ Parameters:
   PubSubnetCIDR:
     Type: String
 
-
 Resources:
   MainVPC:
     Type: AWS::EC2::VPC
